@@ -1,0 +1,23 @@
+.input {
+    width: 50%;
+}
+
+#profileInputUi {
+    float: left;
+    margin-left: 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    overflow: hidden;
+}
+
+#mid-icons {
+    font-size: 24px;
+    margin-top: 40%;
+    margin-left: 40%;
+}
+
+#mid-ions:hover {
+    color: orange;
+}
